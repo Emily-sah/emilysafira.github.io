@@ -1,3 +1,3 @@
 # Portfolio 
  
-[emilysafira.github.io]([link](https://emilysafira.github.io/))
+[emilysafira.github.io](https://emilysafira.github.io/)
